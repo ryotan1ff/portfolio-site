@@ -21,7 +21,9 @@
               </object>
               {% endfor %}
             </div>
+            {% if post.thumbnail %}
             <img width="100%" src="{{post.thumbnail}}" alt="{{post.title}}" />
+            {% endif %}
           </article>
         </a>
         {%endfor%}
