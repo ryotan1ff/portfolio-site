@@ -1,65 +1,21 @@
-# Jekyll Theme Serial Programmer
+# Portfolio Site
 
-> A Jekyll theme for serial programmers (-.-)
+This is my portfolio site.
 
-[Live Demo](https://sharadcodes.github.io/jekyll-theme-serial-programmer/)
+# Public URL
 
-## Features
+### https://ryotan1ff.github.io/portfolio-site/
 
-- Responsive
-- Dark mode/Light mode
-- Syntax highlighting
-- Feed
-- Sitemap
-- and more...
+# How to Develop
 
-## How to install
+## Requirements
 
-1. Download or clone the repo
-   `git clone https://github.com/sharadcodes/jekyll-theme-serial-programmer.git`
-2. Enter the folder
-   `cd jekyll-theme-serial-programmer`
-3. Run
-   `bundle install`
-4. Start Jekyll server
-   `bundle exec jekyll serve`
-5. Access via
-   - localhost or according to your pc configurations.
-6. Change the `_config.yml` & `_data/author.yml` files as you like.
-7. Upload the files on your repository and :sunglasses: enjoy.
+- Ruby
 
-> NOTE: You have to remove `url` and `baseurl` from `_config.yml` to use this theme for `<your-username>.github.io`
+## Procedures
 
-## Alert!
-
-- Don't touch `categories.js` inside `assets/js` folder unless you know what you're doing, it is used for generating links for the particular category pill you click on.
-- You should use github [discussions](https://github.com/sharadcodes/jekyll-theme-serial-programmer/discussions) to ask any question.
-- Don't use issues to ask any question unless you are facing issue related to the theme, jekyll or any file.
-
-## Asking for support!
-
-Hello everyone, If you have used this theme and if it has helped you in any way or if you just want to support me for my open source work, you can support me by donating any amount.
-
-You can use the sponsor button at the top or on the right.
-
-### [Github Sponsor Page](https://github.com/sponsors/sharadcodes)
-
-# Screenshots
-
-## PC BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_blog_dm.png)
-
-![Blog page light mode](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_blog_lm.png)
-
-## PC POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_post.png)
-
-## PHONE BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/mobile_blog.png)
-
-## PHONE POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/mobile_post.png)
+1. Install Jekyll: `gem install bundler jekyll`
+2. Move to the folder: `cd portfolio-site`
+3. Install gems: `bundle install`
+4. Update Jekyll: `bundle update jekyll`
+5. Start the Jekyll server: `bundle exec jekyll serve`
