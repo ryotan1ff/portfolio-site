@@ -134,6 +134,7 @@ main {
   transform: scale(1.05);
 }
 .articles .article .date {
+  color: var(--white-2);
   display: block;
   font-size: 0.8rem;
 }
