@@ -154,6 +154,10 @@ main {
   line-height: 1.3rem;
   cursor: pointer;
 }
+.articles .article .categories .category:hover {
+  background: var(--ryotan-green);
+  color: var(--gray-2);
+}
 /* media query */
 
 @media screen and (max-width: 750px) {
