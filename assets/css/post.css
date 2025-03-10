@@ -95,6 +95,10 @@ main {
   line-height: 1.3rem;
   cursor: pointer;
 }
+.categories .category:hover {
+  background: var(--ryotan-green);
+  color: var(--gray-2);
+}
 
 /* markdown content */
 
