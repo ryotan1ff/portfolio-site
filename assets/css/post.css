@@ -17,7 +17,7 @@ html,
 body {
   color: var(--white-2);
   background-color: var(--gray-6);
-  font-family: "Consolas", "Inconsolata", "JetBrains Mono", "Meiryo", monospace;
+  font-family: "Consolas", "Inconsolata", "Meiryo", monospace;
   line-height: 2rem;
   background-color: var(--gray-5);
 }
