@@ -12,6 +12,10 @@ thumbnail: ../images/thumbnail.png
 
 外部リンクがあれば
 
+## Source Code
+
+[GitHubリポジトリ](url)
+
 ## Information
 
 ### 技術スタック

@@ -8,12 +8,16 @@ categories: ["Website"]
 就活に役立つかと思い，ずっと気になっていたサイト制作に取りかかってみました！
 見やすいこと・手軽に実装できること・簡単にビルドできることの3点を意識しました．
 
+## Source Code
+
+[GitHubリポジトリ](https://github.com/ryotan1ff/portfolio-site)
+
 ## Information
 
 ### 技術スタック
 
 - Jekyll
-- Github Pages
+- GitHub Pages
 - CSS
 - HTML
 
