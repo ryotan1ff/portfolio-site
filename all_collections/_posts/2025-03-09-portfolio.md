@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ryo Sasaki Porfolio（このサイト）
+title: Ryo Sasaki Portfolio（このサイト）
 date: 2025-03-10
 categories: ["Website"]
 ---
