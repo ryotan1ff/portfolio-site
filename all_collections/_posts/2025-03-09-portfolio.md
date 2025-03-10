@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ryo Sasaki Porfolio（このサイト）
-date: 2025-03-09
+date: 2025-03-10
 categories: ["Website"]
 ---
 
@@ -19,7 +19,9 @@ categories: ["Website"]
 
 ### 制作期間
 
-2025-03-09 ~ ???
+開発～公開まで2日
+
+以降，記事追加やアップデート
 
 ### 制作体制
 
