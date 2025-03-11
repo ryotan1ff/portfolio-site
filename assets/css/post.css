@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,300;0,400;0,800;1,100;1,300;1,400;1,800&display=swap");
 
 * {
@@ -16,7 +17,7 @@ html,
 body {
   color: var(--white-2);
   background-color: var(--gray-6);
-  font-family: "Consolas", "JetBrains Mono", "Meiryo", monospace;
+  font-family: "Consolas", "Inconsolata", "Meiryo", monospace;
   line-height: 2rem;
   background-color: var(--gray-5);
 }
@@ -94,6 +95,10 @@ main {
   padding: 0 0.8rem;
   line-height: 1.3rem;
   cursor: pointer;
+}
+.categories .category:hover {
+  background: var(--ryotan-green);
+  color: var(--gray-2);
 }
 
 /* markdown content */
