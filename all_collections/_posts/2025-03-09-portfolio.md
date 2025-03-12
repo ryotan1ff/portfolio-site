@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ryo Sasaki Portfolio（このサイト）
+title: Ryotan's Portfolio（このサイト）
 date: 2025-03-10
 categories: ["Website"]
 ---
@@ -8,12 +8,16 @@ categories: ["Website"]
 就活に役立つかと思い，ずっと気になっていたサイト制作に取りかかってみました！
 見やすいこと・手軽に実装できること・簡単にビルドできることの3点を意識しました．
 
+## Source Code
+
+[GitHubリポジトリ](https://github.com/ryotan1ff/portfolio-site)
+
 ## Information
 
 ### 技術スタック
 
 - Jekyll
-- Github Pages
+- GitHub Pages
 - CSS
 - HTML
 
@@ -35,6 +39,6 @@ categories: ["Website"]
 
 私はWebエンジニアを目指しているわけではありませんので，サイトの実装に凝る必要はないと考えました．そこで，手軽に見やすいサイトを作成する方法を探ることとしました．
 
-その結果，Jekyllテンプレートで生成したサイトをGithub Pagesで公開することとしました．私はHTMLに特別慣れているわけではありませんので，Markdown記法をメインで用いることのできる[Jekyll Theme Serial Programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer)をお借りし，自分好みにカスタマイズしていきました．大きな変更点として，まずはトップ画面にある記事カードにサムネイル画像を表示するようにしました．モダンなサイトには必須だと感じています．次に，クリックできるのが記事タイトルのみで狭く押しにくかったため，カード要素全体をクリックできるようにしました．この考え方は，研究室で学んだ[フィッツの法則](https://lawsofux.com/fittss-law/)に基づくものです．他にも細かな変更を加え，見やすさや自分らしさをプラスしていきました．
+その結果，Jekyllテンプレートで生成したサイトをGitHub Pagesで公開することとしました．私はHTMLに特別慣れているわけではありませんので，Markdown記法をメインで用いることのできる[Jekyll Theme Serial Programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer)をお借りし，自分好みにカスタマイズしていきました．大きな変更点として，まずはトップ画面にある記事カードにサムネイル画像を表示するようにしました．モダンなサイトには必須だと感じています．次に，クリックできるのが記事タイトルのみで狭く押しにくかったため，カード要素全体をクリックできるようにしました．この考え方は，研究室で学んだ[フィッツの法則](https://lawsofux.com/fittss-law/)に基づくものです．他にも細かな変更を加え，見やすさや自分らしさをプラスしていきました．
 
 なかなかモダンなデザインに仕上がったのではないでしょうか？

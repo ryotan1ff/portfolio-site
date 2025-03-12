@@ -3,7 +3,7 @@ layout: post
 title: enter title
 date: yyyy-MM-dd
 categories: ["category1", "category2"]
-thumbnail: ../images/thumbnail.png
+thumbnail: ../assets/images/thumbnail.png
 ---
 
 簡単な説明
@@ -11,6 +11,10 @@ thumbnail: ../images/thumbnail.png
 ## Links
 
 外部リンクがあれば
+
+## Source Code
+
+[GitHubリポジトリ](url)
 
 ## Information
 
