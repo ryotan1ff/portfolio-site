@@ -8,7 +8,7 @@ thumbnail: ./assets/images/prus-thumbnail.png
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/prus-thumbnail.png)
 
-サークル内製バックエンドシステムであるProcRankingのAPIを簡単に扱うためのUnity向けSDK (Software Develop Kit) です．略称はPRUS（プルース）です．サークルメンバーのみに向け，Unity Package Manager上に公開しています．[すイカゲーム]({% post_url 2023-10-28-su-ika-game %})を含む，オンラインランキング機能を持つUnityゲームたちの開発に貢献しました．
+サークル内製バックエンドシステムであるProcRankingのAPIを簡単に扱うためのUnity向けSDK (Software Develop Kit) です．略称はPRUS（プルース）です．サークルメンバーのみに向け，Unity Package Manager上に公開しています．[すイカゲーム]({{site.baseurl}}/works/su-ika-game)を含む，オンラインランキング機能を持つUnityゲームたちの開発に貢献しました．
 
 ## Source Code
 
@@ -38,7 +38,7 @@ v1.0.0公開まで半年程度
 
 ## Story
 
-2023年の大学祭で大人気だった[すイカゲーム]({% post_url 2023-10-28-su-ika-game %})のオンラインランキングでは[ニフクラ mobile backend](https://mbaas.nifcloud.com/)を利用していましたが，このmBaaS (mobile Backend as a Service) は2024年3月にサービス終了してしまいました．そこで，サークル部員用のオンラインランキングバックエンドシステムである『ProcRanking』を後輩が新しく作ってくれました．ProcRanking（以降『プロクラ』）は，部室サーバーへデータの読み書きができるRESTful APIと，データを簡単に管理できるWebアプリケーションを提供する非常によくできたシステムです．
+2023年の大学祭で大人気だった[すイカゲーム]({{site.baseurl}}/works/su-ika-game)のオンラインランキングでは[ニフクラ mobile backend](https://mbaas.nifcloud.com/)を利用していましたが，このmBaaS (mobile Backend as a Service) は2024年3月にサービス終了してしまいました．そこで，サークル部員用のオンラインランキングバックエンドシステムである『ProcRanking』を後輩が新しく作ってくれました．ProcRanking（以降『プロクラ』）は，部室サーバーへデータの読み書きができるRESTful APIと，データを簡単に管理できるWebアプリケーションを提供する非常によくできたシステムです．
 
 しかし，APIを叩くにはWebの知識が必要なため，利用が難しいという問題がありました．実際のところ，私はプロクラを利用するためにHTTPリクエスト/レスポンスの理解から始めなければなりませんでした．他の部員からは敬遠されていたのか，プロクラがリリースされてからずっと利用者が私しかいないというもったいない状況が続いていました．他の部員にもプロクラを利用してもらうためには，UnityとWebの両方をある程度理解している私が行動を起こすしかないと思うようになりました．
 

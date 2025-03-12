@@ -61,4 +61,4 @@ Coming soon.
 
 学祭では非常に多くの方に遊んでいただき，2日間でのべ350プレイを達成しました．ゲーマーから初心者まで楽しませるという狙いがうまくいったと思います．オンラインランキングも大盛り上がりを見せました．
 
-（バックエンドシステムの移行については[ProcRanking Unity SDK]({% post_url 2024-07-21-procranking-unity-sdk %})をご覧ください．）
+（バックエンドシステムの移行については[ProcRanking Unity SDK]({{site.baseurl}}/works/procranking-unity-sdk)をご覧ください．）
