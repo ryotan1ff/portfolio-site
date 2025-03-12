@@ -3,7 +3,7 @@ layout: post
 title: すイカゲーム
 date: 2023-10-28
 categories: ["Game"]
-thumbnail: ../assets/images/su-ika-game-thumbnail.png
+thumbnail: ./assets/images/su-ika-game-thumbnail.png
 ---
 
 ![すイカゲーム]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.png)
