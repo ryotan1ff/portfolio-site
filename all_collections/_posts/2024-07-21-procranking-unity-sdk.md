@@ -12,7 +12,7 @@ thumbnail: ./assets/images/prus-thumbnail.png
 
 ## Source Code
 
-:bow:サークル内部限定公開
+:bowing_man:サークル内部限定公開
 
 ## Information
 
