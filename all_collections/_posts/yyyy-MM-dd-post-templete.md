@@ -3,8 +3,10 @@ layout: post
 title: enter title
 date: yyyy-MM-dd
 categories: ["category1", "category2"]
-thumbnail: ../assets/images/thumbnail.png
+thumbnail: ./assets/images/thumbnail.png
 ---
+
+![{{page.title}}]({{site.baseurl}}/assets/images/thumbnail.png)
 
 簡単な説明
 

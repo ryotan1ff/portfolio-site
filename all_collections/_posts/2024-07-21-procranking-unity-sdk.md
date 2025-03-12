@@ -3,10 +3,10 @@ layout: post
 title: ProcRanking Unity SDK (PRUS)
 date: 2024-07-21
 categories: ["SDK", "Unity Package"]
-thumbnail: ../assets/images/prus-thumbnail.png
+thumbnail: ./assets/images/prus-thumbnail.png
 ---
 
-![{{page.title}}]({% link /assets/images/prus-thumbnail.png %})
+![{{page.title}}]({{site.baseurl}}/assets/images/prus-thumbnail.png)
 
 サークル内製バックエンドシステムであるProcRankingのAPIを簡単に扱うためのUnity向けSDK (Software Develop Kit) です．略称はPRUS（プルース）です．サークルメンバーのみに向け，Unity Package Manager上に公開しています．[すイカゲーム]({% post_url 2023-10-28-su-ika-game %})を含む，オンラインランキング機能を持つUnityゲームたちの開発に貢献しました．
 
