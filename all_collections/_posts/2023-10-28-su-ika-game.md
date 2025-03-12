@@ -6,7 +6,7 @@ categories: ["Game"]
 thumbnail: ../assets/images/su-ika-game-thumbnail.png
 ---
 
-![すイカゲーム]({% link /assets/images/su-ika-game-thumbnail.png %})
+![すイカゲーム]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.png)
 
 サークル活動として制作した，イカとイカをくっつけて酸っぱくしていくパズルゲームです．
 サークル内製のバックエンドシステムを利用し，オンラインランキング機能を実装しています．
