@@ -22,7 +22,7 @@ Coming soon.
 
 ## Links
 
-[サークルHP（Windows向けビルドを配布しています）](https://micomprocedure.com/works/236)
+- [サークルHP（Windows向けビルドを配布しています）](https://micomprocedure.com/works/236)
 
 ## Source Code
 
@@ -46,7 +46,7 @@ Coming soon.
 
 制作開始から初公開まで12日間
 
-以降，継続的にアップデート（最終更新：2024年10月20日）
+以降，継続的にアップデート（最新リリース：2024年10月20日）
 
 ### 制作体制
 
