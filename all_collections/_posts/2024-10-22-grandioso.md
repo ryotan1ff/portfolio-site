@@ -3,7 +3,7 @@ layout: post
 title: Grandioso
 date: 2024-10-22
 categories: ["Game"]
-thumbnail: ./assets/images/grandioso-music-select.png
+thumbnail: grandioso-music-select
 ---
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-music-select.png)

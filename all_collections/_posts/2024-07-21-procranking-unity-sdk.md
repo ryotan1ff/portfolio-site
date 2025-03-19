@@ -3,7 +3,7 @@ layout: post
 title: ProcRanking Unity SDK (PRUS)
 date: 2024-07-21
 categories: ["SDK", "Unity Package"]
-thumbnail: ./assets/images/prus-thumbnail.png
+thumbnail: prus-thumbnail
 ---
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/prus-thumbnail.png)
