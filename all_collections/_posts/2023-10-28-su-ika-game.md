@@ -3,15 +3,18 @@ layout: post
 title: すイカゲーム
 date: 2023-10-28
 categories: ["Game"]
-thumbnail: ./assets/images/su-ika-game-thumbnail.png
+thumbnail: su-ika-game-thumbnail
 ---
 
-![すイカゲーム]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.png)
+![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.png)
 
 サークル活動として制作した，イカとイカをくっつけて酸っぱくしていくパズルゲームです．
+落ち物の形状が球ではないため，オマージュ元のあのゲームとはまた違った独特なゲーム性が生まれました．
 サークル内製のバックエンドシステムを利用し，オンラインランキング機能を実装しています．
 2023年の大学祭で初公開され，2日間でのべ350回プレイされました！
-一部からの根強い人気があり，2025年3月10日現在，通算760プレイを達成しています．
+展示との親和性と一部からの根強い人気からプレイ数を伸ばし続け，2025年3月10日現在，通算760プレイを達成しています．
+
+（バグの発見によりランキングがとんでもないことになっていますが，通常プレイには支障ありません．時間がかかるかもしれませんが，修正したいと考えています．）
 
 ## Video
 
@@ -19,7 +22,7 @@ Coming soon.
 
 ## Links
 
-[サークルHP（Windows向けビルドを配布しています）](https://micomprocedure.com/works/236)
+- [サークルHP（Windows向けビルドを配布しています）](https://micomprocedure.com/works/236)
 
 ## Source Code
 
@@ -43,7 +46,7 @@ Coming soon.
 
 制作開始から初公開まで12日間
 
-以降，継続的にアップデート（最終更新：2024年10月20日）
+以降，継続的にアップデート（最新リリース：2024年10月20日）
 
 ### 制作体制
 
@@ -61,4 +64,4 @@ Coming soon.
 
 学祭では非常に多くの方に遊んでいただき，2日間でのべ350プレイを達成しました．ゲーマーから初心者まで楽しませるという狙いがうまくいったと思います．オンラインランキングも大盛り上がりを見せました．
 
-（バックエンドシステムの移行については[ProcRanking Unity SDK]({% post_url 2024-07-21-procranking-unity-sdk %})をご覧ください．）
+（バックエンドシステムの移行については[ProcRanking Unity SDK]({{site.baseurl}}/works/procranking-unity-sdk)をご覧ください．）
