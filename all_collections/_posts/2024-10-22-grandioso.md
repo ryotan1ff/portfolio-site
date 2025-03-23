@@ -6,10 +6,10 @@ categories: ["Game"]
 thumbnail: grandioso-music-select
 ---
 
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-music-select.png)
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-title-screen.png)
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-mode-select.png)
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-gallery.png)
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-music-select.webp)
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-title-screen.webp)
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-mode-select.webp)
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-gallery.webp)
 
 レーンを移動できることが特徴の，ノーツをさばいて敵を倒すリズムゲームです．RPGテイストのシナリオを楽しめるノベルゲームパートもあります．
 私が所属する大学のゲーム制作サークルと，他大学のゲーム音楽サークルとの総勢27名による大規模なコラボ作品となっています．私はサブとなるゲームシーンのプログラムを担当しました．
