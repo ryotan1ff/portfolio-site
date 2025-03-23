@@ -6,7 +6,7 @@ categories: ["category1", "category2"]
 thumbnail: thumbnail
 ---
 
-![{{page.title}}]({{site.baseurl}}/assets/images/thumbnail.png)
+![{{page.title}}]({{site.baseurl}}/assets/images/thumbnail.webp)
 
 簡単な説明
 
