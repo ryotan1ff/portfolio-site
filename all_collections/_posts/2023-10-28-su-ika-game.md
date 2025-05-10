@@ -7,6 +7,7 @@ thumbnail: ./assets/images/su-ika-game-thumbnail.png
 ---
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.png)
+![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-flyer.webp)
 
 サークル活動として制作した，イカとイカをくっつけて酸っぱくしていくパズルゲームです．
 落ち物の形状が球ではないため，オマージュ元のあのゲームとはまた違った独特なゲーム性が生まれました．
