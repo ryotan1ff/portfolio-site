@@ -263,3 +263,11 @@ main {
     padding: 1.5rem;
   }
 }
+
+/* YouTube embedding */
+.youtube{
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+  margin: 1rem 0;
+}

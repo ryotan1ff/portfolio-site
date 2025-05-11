@@ -4,6 +4,7 @@ title: Slash and Bash
 date: 2023-10-28
 categories: ["Game"]
 thumbnail: slaba-thumbnail
+youtube: https://www.youtube.com/embed/D4ZSq_XLCWg?si=p3vVYMA6ik_8XmGH
 ---
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/slaba-thumbnail.webp)
