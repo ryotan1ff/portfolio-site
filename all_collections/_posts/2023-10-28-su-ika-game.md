@@ -23,7 +23,8 @@ youtube: https://www.youtube.com/embed/v7bXrkjWiv4?si=T8CIxtBuWUfxh8Tp
 
 ## Source Code
 
-:bowing_man:現在非公開
+:bowing_man:現在非公開（PRUSへのアクセストークンを含んでいるため）  
+トークンを隠した状態で共有する方法を検討中です．
 
 ## Information
 
