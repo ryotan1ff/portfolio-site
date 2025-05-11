@@ -4,6 +4,7 @@ title: enter title
 date: yyyy-MM-dd
 categories: ["category1", "category2"]
 thumbnail: thumbnail
+youtube: youtube link for embedding
 ---
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/thumbnail.webp)
