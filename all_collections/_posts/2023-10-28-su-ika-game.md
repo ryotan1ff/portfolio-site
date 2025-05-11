@@ -4,6 +4,7 @@ title: すイカゲーム
 date: 2023-10-28
 categories: ["Game"]
 thumbnail: su-ika-game-thumbnail
+youtube: https://www.youtube.com/embed/v7bXrkjWiv4?si=T8CIxtBuWUfxh8Tp
 ---
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.webp)
@@ -16,10 +17,6 @@ thumbnail: su-ika-game-thumbnail
 展示との親和性と一部からの根強い人気からプレイ数を伸ばし続け，2025年4月6日に通算800プレイを突破しました．
 
 （バグの発見によりランキングがとんでもないことになっていますが，通常プレイには支障ありません．時間がかかるかもしれませんが，修正したいと考えています．）
-
-## Video
-
-Coming soon.
 
 ## Links
 
