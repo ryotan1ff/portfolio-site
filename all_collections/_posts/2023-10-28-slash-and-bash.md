@@ -31,6 +31,7 @@ youtube: https://www.youtube.com/embed/D4ZSq_XLCWg?si=p3vVYMA6ik_8XmGH
 ### 技術スタック
 
 - Unity
+  - Universal Render Pipeline (URP)
   - Shader Graph
 - C#
 - Blender
