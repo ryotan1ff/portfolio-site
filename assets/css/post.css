@@ -271,3 +271,12 @@ main {
   height: auto;
   margin: 1rem 0;
 }
+
+.thankyou {
+  margin: 2rem 0;
+  padding: 1rem;
+  border-radius: 15px;
+  color: var(--white-2);
+  background-color: var(--gray-3);
+  text-align: center;
+}
