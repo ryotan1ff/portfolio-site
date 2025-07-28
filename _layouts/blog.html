@@ -13,11 +13,11 @@
             <h2 class="article-title">{{post.title}}</h2>
             <small class="date">{{post.date | date: "%Y-%m-%d"}}</small>
             <div class="categories">
-              {% for c in post.categories %}
+              {% for category in post.categories %}
               <object>
-                <a href="#!" data-base-url="{{site.baseurl}}" class="category"
-                  >{{c}}</a
-                >
+                <a href="#!" data-base-url="{{site.baseurl}}" class="category">
+                  {{category}}
+                </a>
               </object>
               {% endfor %}
             </div>
