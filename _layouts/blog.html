@@ -21,14 +21,9 @@
               </object>
               {% endfor %}
             </div>
-            {% if post.thumbnail %}
-            <picture>
-              <source srcset="{{post.thumbnail | prepend: "./assets/images/" |
-              append: ".webp"}}" type="image/webp" /> <img width="100%"
-              src="{{post.thumbnail | prepend: "./assets/images/" | append:
-              ".png"}}" alt="{{post.title}}" loading="lazy" />
-            </picture>
-            {% endif %}
+            {% if post.thumbnail %} <img width="100%" src="{{post.thumbnail |
+            prepend: "./assets/images/" | append: ".webp"}}"
+            alt="{{post.title}}" loading="lazy" /> {% endif %}
           </article>
         </a>
         {%endfor%}
