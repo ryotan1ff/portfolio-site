@@ -1,6 +1,5 @@
 {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
-    "editor.formatOnSave": true,
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
