@@ -3,9 +3,11 @@
 <!DOCTYPE html>
 <html lang="ja">
   {% include head.html %}
+  {% include google-tag.html %}
   <body>
     <main>
-      {% include header.html %} {% include bio.html %}
+      {% include header.html %}
+      {% include bio.html %}
       <section class="articles">
         {% for post in site.posts %}
         <a href="{{site.baseurl}}{{post.url}}">
@@ -21,12 +23,17 @@
               </object>
               {% endfor %}
             </div>
-            {% if post.thumbnail %} <img width="100%" src="{{post.thumbnail |
-            prepend: "./assets/images/" | append: ".webp"}}"
-            alt="{{post.title}}" loading="lazy" /> {% endif %}
+            {% if post.thumbnail %}
+              <img
+                width="100%"
+                src="{{post.thumbnail | prepend: "./assets/images/" | append: ".webp"}}"
+                alt="{{post.title}}"
+                loading="lazy"
+              />
+            {% endif %}
           </article>
         </a>
-        {%endfor%}
+        {% endfor %}
       </section>
       {% include footer.html %}
     </main>
