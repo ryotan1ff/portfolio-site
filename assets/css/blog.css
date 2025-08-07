@@ -39,6 +39,9 @@ main {
   max-width: 650px;
   padding: 3rem 0;
 }
+footer a.clickable-easter-egg {
+  color: var(--white-2);
+}
 
 /* header */
 
