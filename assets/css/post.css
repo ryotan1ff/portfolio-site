@@ -280,3 +280,7 @@ main {
   background-color: var(--gray-3);
   text-align: center;
 }
+
+a.clickable-easter-egg {
+  color: var(--white-2);
+}
