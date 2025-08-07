@@ -10,7 +10,7 @@ thumbnail: twilight-code-thumbnail
 ![{{page.title}}]({{site.baseurl}}/assets/images/twilight-code-thumbnail.webp)
 
 近未来の東京を舞台にしたポストアポカリプス3Dアクションアドベンチャーゲームです．
-11名のチームで制作しており，私はUI周りの実装をお手伝いさせていただいています．
+10名のチームで制作しており，私はUI周りの実装をお手伝いさせていただいています．
 [東京ゲームダンジョン9](https://gamedungeon.jp/events/tokyo9)にてデモ版を公開しました．
 完成に向けてまだ鋭意制作中の段階です．
 
@@ -37,7 +37,7 @@ thumbnail: twilight-code-thumbnail
 
 ### 制作体制
 
-11名のチーム（うち，プログラム3名）  
+10名のチーム（うち，プログラム3名）  
 デモ版でボタンUIのプログラムを担当  
 完成版ではマップの生成とUIのプログラムを担当予定
 
