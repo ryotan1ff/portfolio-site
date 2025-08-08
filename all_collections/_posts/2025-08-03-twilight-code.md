@@ -49,7 +49,7 @@ thumbnail: twilight-code-thumbnail
 参加した目的は主に3つあります．
 
 1つ目は，チーム開発スキルの向上です．
-自分にとって，[Gravity-Lost](https://ryotan1ff.github.io/portfolio-site/works/gravity-lost/)，[Grandioso](https://ryotan1ff.github.io/portfolio-site/works/grandioso/)に続いて3作目のチーム制作ゲームとなります．
+自分にとって，[Gravity-Lost]({{site.baseurl}}/works/gravity-lost/)，[Grandioso]({{site.baseurl}}/works/grandioso/)に続いて3作目のチーム制作ゲームとなります．
 サークルOBの社会人メンバーがいたり，これまであまり一緒に活動してこなかったメンバーがいたりと，これまでのチーム制作とはまた違った経験ができています．
 
 2つ目は，プログラミングの技術力向上です．
