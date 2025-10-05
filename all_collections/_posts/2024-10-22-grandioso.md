@@ -7,17 +7,17 @@ thumbnail: grandioso-music-select
 youtube: https://www.youtube.com/embed/HUOLcto7V9o?si=1Iysy85TDgZ7QKMw
 ---
 
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-music-select.webp)
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-title-screen.webp)
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-mode-select.webp)
-![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-gallery.webp)
-
 レーンを移動できることが特徴の，ノーツをさばいて敵を倒すリズムゲームです．
 RPGテイストのシナリオを楽しめるノベルゲームパートもあります．
 私が所属する大学のゲーム制作サークルと，他大学のゲーム音楽サークルとの総勢27名による大規模なコラボ作品となっています．
 私はサブとなるゲームシーンのプログラムを担当しました．
 
 2025年4月に，約4か月ぶりとなるアップデートを配信しました！楽曲追加に伴い楽曲リストUIが画面に収まりきらなくなったため，スクロール機構を追加しました．
+
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-music-select.webp)
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-title-screen.webp)
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-mode-select.webp)
+![{{page.title}}]({{site.baseurl}}/assets/images/grandioso-gallery.webp)
 
 ## Links
 
