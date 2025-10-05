@@ -7,15 +7,15 @@ thumbnail: su-ika-game-thumbnail
 youtube: https://www.youtube.com/embed/v7bXrkjWiv4?si=T8CIxtBuWUfxh8Tp
 ---
 
-![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.webp)
-![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-flyer.webp)
-
 サークル活動として制作した，イカとイカをくっつけて酸っぱくしていくパズルゲームです．
 落ち物の形状が球ではないため，オマージュ元のあのゲームとはまた違った独特なゲーム性が生まれました．
 サークル内製のバックエンドシステムを利用し，オンラインランキング機能を実装しています．
 2023年の大学祭で初公開され，2日間でのべ350回プレイされました！
 展示との親和性と一部からの根強い人気からプレイ数を伸ばし続け，2025年8月7日に通算900プレイを突破しました．  
 （バグの発見によりランキングがとんでもないことになっていますが，通常プレイには支障ありません．時間がかかるかもしれませんが，修正したいと考えています．）
+
+![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-thumbnail.webp)
+![{{page.title}}]({{site.baseurl}}/assets/images/su-ika-game-flyer.webp)
 
 ## Links
 

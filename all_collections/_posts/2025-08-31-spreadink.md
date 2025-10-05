@@ -7,12 +7,14 @@ thumbnail: spreadink-thumbnail
 # youtube: youtube link for embedding
 ---
 
+インクのひろがりで色を塗り、お題の割合を目指すパズルゲームです．
+[プロトスプリントリーグ](https://www.cyberagent.co.jp/careers/students/event/detail/id=31568)（ハッカソンイベント）で制作し，8チームの中で最優秀賞をいただきました．
+初対面の3人チームで，1週間+2日で完成させるという初の試みの中，ゲームとして面白いものを作ることができました．
+
 ![{{page.title}}]({{site.baseurl}}/assets/images/spreadink-thumbnail.webp)
 ![{{page.title}}]({{site.baseurl}}/assets/images/spreadink-level-select.webp)
 ![{{page.title}}]({{site.baseurl}}/assets/images/spreadink-ingame.webp)
 ![{{page.title}}]({{site.baseurl}}/assets/images/spreadink-result.webp)
-
-インクのひろがりで色を塗り、お題の割合を目指すパズルゲームです．[プロトスプリントリーグ](https://www.cyberagent.co.jp/careers/students/event/detail/id=31568)（ハッカソンイベント）で制作し，8チームの中で最優秀賞をいただきました．初対面の3人チームで，1週間+2日で完成させるという初の試みの中，ゲームとして面白いものを作ることができました．
 
 <!-- ## Links
 

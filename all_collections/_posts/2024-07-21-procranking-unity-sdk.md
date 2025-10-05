@@ -6,12 +6,12 @@ categories: ["SDK", "Unity Package"]
 thumbnail: prus-thumbnail
 ---
 
-![{{page.title}}]({{site.baseurl}}/assets/images/prus-thumbnail.webp)
-
 ProcRankingのAPIを簡単に扱うためのUnity向けSDKです．（ProcRankingとは，部室サーバーへデータを読み書きするためのサークル内製バックエンドシステムのことです．）
 略称はPRUS（プルース）です．
 サークルメンバーのみに向け，Unity Package Manager上に公開しています．
 [すイカゲーム]({{site.baseurl}}/works/su-ika-game)を含む，オンラインランキング機能を持つUnityゲームたちの開発に貢献しました．
+
+![{{page.title}}]({{site.baseurl}}/assets/images/prus-thumbnail.webp)
 
 ## Source Code
 
