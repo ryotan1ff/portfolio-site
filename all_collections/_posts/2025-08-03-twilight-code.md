@@ -26,7 +26,7 @@ thumbnail: twilight-code-thumbnail
 
 ### 技術スタック
 
-- Unity
+- Unity 6000.0.58f2
   - UniTask
   - R3
 - C#

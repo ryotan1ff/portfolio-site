@@ -30,7 +30,7 @@ youtube: https://www.youtube.com/embed/D4ZSq_XLCWg?si=p3vVYMA6ik_8XmGH
 
 ### 技術スタック
 
-- Unity
+- Unity 2022.3.8f1
   - Universal Render Pipeline (URP)
   - Shader Graph
 - C#

@@ -22,7 +22,7 @@ ProcRankingのAPIを簡単に扱うためのUnity向けSDKです．（ProcRankin
 ### 技術スタック
 
 - C#
-- Unity
+- Unity 2022.3.8f1
   - Unity Package Manager
 - RESTful API
 
