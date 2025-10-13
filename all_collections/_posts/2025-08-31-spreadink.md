@@ -4,7 +4,7 @@ title: スプレッディンク
 date: 2025-08-31
 categories: ["Game"]
 thumbnail: spreadink-thumbnail
-# youtube: youtube link for embedding
+youtube: https://www.youtube.com/embed/hXqBupqn-vk?si=l1eDhCzyDCJDCXuU
 ---
 
 インクのひろがりで色を塗り、お題の割合を目指すパズルゲームです．
