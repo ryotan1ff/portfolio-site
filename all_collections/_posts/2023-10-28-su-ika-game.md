@@ -30,7 +30,7 @@ youtube: https://www.youtube.com/embed/v7bXrkjWiv4?si=T8CIxtBuWUfxh8Tp
 
 ### 技術スタック
 
-- Unity
+- Unity 2022.3.8f1
 - C#
 - ニフクラ mobile backend
   - 2024年3月のサービス終了を受け，ProcRankingに移行．

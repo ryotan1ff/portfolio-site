@@ -30,7 +30,7 @@ thumbnail: gravity-lost-thumbnail
 
 ### 技術スタック
 
-- Unity
+- Unity 2020.3.6f1
 - C#
 - GitHub
 
