@@ -28,7 +28,7 @@ youtube: https://www.youtube.com/embed/hXqBupqn-vk?si=l1eDhCzyDCJDCXuU
 
 ### 技術スタック
 
-- Unity
+- Unity 6000.0.58f2
   - UniTask
   - LitMotion
 - C#
