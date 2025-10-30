@@ -2,7 +2,7 @@
 layout: post
 title: ProcRanking Unity SDK (PRUS)
 date: 2024-07-21
-categories: ["SDK", "Unity Package"]
+categories: ["SDK", "Unity Package", "Recommended"]
 thumbnail: prus-thumbnail
 ---
 

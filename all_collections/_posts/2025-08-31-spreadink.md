@@ -2,7 +2,7 @@
 layout: post
 title: スプレッディンク
 date: 2025-08-31
-categories: ["Game"]
+categories: ["Game", "Awarded", "Recommended"]
 thumbnail: spreadink-thumbnail
 youtube: https://www.youtube.com/embed/hXqBupqn-vk?si=l1eDhCzyDCJDCXuU
 ---
