@@ -16,9 +16,10 @@ youtube: https://www.youtube.com/embed/hXqBupqn-vk?si=l1eDhCzyDCJDCXuU
 ![{{page.title}}]({{site.baseurl}}/assets/images/spreadink-ingame.webp)
 ![{{page.title}}]({{site.baseurl}}/assets/images/spreadink-result.webp)
 
-<!-- ## Links
+## Links
 
-外部リンクがあれば -->
+- [unityroom](https://unityroom.com/games/spreadink)
+- [【開催レポート】プロトスプリントリーグ](https://note.com/ca_tech/n/ne439fa347a63#bc6577f5-9ef1-472a-b32e-6547eee69a4b)
 
 ## Source Code
 
