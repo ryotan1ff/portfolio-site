@@ -2,7 +2,7 @@
 layout: post
 title: Grandioso
 date: 2024-10-22
-categories: ["Game"]
+categories: ["Game", "Recommended"]
 thumbnail: grandioso-music-select
 youtube: https://www.youtube.com/embed/HUOLcto7V9o?si=1Iysy85TDgZ7QKMw
 ---
