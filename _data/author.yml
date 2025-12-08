@@ -11,8 +11,6 @@ description: "
 "
 email: 33ki.job@gmail.com
 contact:
-  # - title: linkedin
-  #   url: https://www.linkedin.com/in/srsmaurya
   - title: github
     url: https://github.com/ryotan1ff
   # - title: twitter
@@ -21,3 +19,5 @@ contact:
   #   url: https://dev.to/sharadcodes
   - title: email
     url: mailto:33ki.job@gmail.com
+  - title: linkedin
+    url: https://www.linkedin.com/in/ryo-sasaki-6417b2393
