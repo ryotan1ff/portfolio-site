@@ -7,9 +7,9 @@ thumbnail: thumbnail
 youtube: youtube link for embedding
 ---
 
-![{{page.title}}]({{site.baseurl}}/assets/images/thumbnail.webp)
-
 簡単な説明
+
+![{{page.title}}]({{site.baseurl}}/assets/images/thumbnail.webp)
 
 ## Links
 
