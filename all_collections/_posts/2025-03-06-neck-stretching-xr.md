@@ -1,7 +1,7 @@
 ---
 layout: post
 title: バーチャルスクリーンの移動によるXRナレッジワーク中の頸部ストレッチング誘導手法
-date: 2025-03-06
+date: 2025-09-17
 categories: ["Research", "Paper"]
 thumbnail: neck-stretching-xr-thumbnail
 # youtube: youtube link for embedding
