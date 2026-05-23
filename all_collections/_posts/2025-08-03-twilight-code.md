@@ -7,16 +7,18 @@ thumbnail: twilight-code-thumbnail
 # youtube: youtube link for embedding
 ---
 
-近未来の東京を舞台にしたポストアポカリプス3Dアクションアドベンチャーゲームです．
-10名のチームで制作しており，私はUI周りの実装をお手伝いさせていただいています．
-[東京ゲームダンジョン9](https://gamedungeon.jp/events/tokyo9)にてデモ版を公開しました．
-完成に向けてまだ鋭意制作中の段階です．
+滅びゆく近未来の東京を舞台に，少女たちの切ない物語を描く，終末百合系剣戟3Dアクションアドベンチャーゲームです．
+14名のチームで制作しており，私はUI周りの実装をお手伝いさせていただいています．
+[東京ゲームダンジョン9](https://gamedungeon.jp/events/tokyo9)にてデモ版を初公開しました．
+完成に向けて鋭意制作中です．
 
 ![{{page.title}}]({{site.baseurl}}/assets/images/twilight-code-thumbnail.webp)
 
 ## Links
 
-[東京ゲームダンジョン9出展情報](https://gamedungeon.jp/events/tokyo9/exhibit_informations?day=1&floor=3%E9%9A%8E#87)
+- [公式サイト](https://ateliernever.com/works/twilight-code/)
+- [東京ゲームダンジョン9出展情報](https://gamedungeon.jp/events/tokyo9/exhibit_informations?day=1&floor=3%E9%9A%8E#87)
+- [ゲームパビリオンJP出展情報](https://gamepavilion.jp/games-2026-03/twilight-code/)
 
 ## Source Code
 
@@ -29,6 +31,7 @@ thumbnail: twilight-code-thumbnail
 - Unity 6000.0.58f2
   - UniTask
   - R3
+  - Navigathena
 - C#
 
 ### 制作期間
@@ -37,9 +40,8 @@ thumbnail: twilight-code-thumbnail
 
 ### 制作体制
 
-10名のチーム（うち，プログラム3名）  
+14名のチーム（うち，プログラム3名）  
 デモ版でボタンUIのプログラムを担当  
-完成版ではマップの生成とUIのプログラムを担当予定
 
 ---
 
