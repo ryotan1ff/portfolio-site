@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ja">
+  {% include head.html %} {% include google-tag.html %}
+  <body>
+    <main>
+      {% include header.html %}
+      <section class="article">
+        <div class="content">
+          <link rel="stylesheet" href="{{ '/assets/css/digital-card.css' | relative_url }}" />
+
+          <div class="digital-card">
+            <div class="card">
+              <img
+                class="avatar"
+                src="{{ site.data.author.dp }}"
+                alt="{{ site.data.author.name }}"
+              />
+              <div class="info">
+                <h1>{{ site.data.author.name }}</h1>
+                <h2>Game Programmer</h2>
+                <div id="social-wrapper">
+                  {% for i in site.data.author.contact %}
+                  <a href="{{i.url}}" target="_blank">
+                    <img src="{{site.baseurl}}/assets/icons/{{i.title}}.png" alt="" />
+                  </a>
+                  {%endfor%}
+                </div>
+              </div>
+            </div>
+            <div class="qr">
+              <img
+                src="{{ site.baseurl }}/assets/images/qr-code-{{ site.title | slugify }}.png"
+                alt="QRコード"
+                width="100%"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      {% include footer.html %}
+    </main>
+    {% include category-modal.html %}
+  </body>
+</html>
