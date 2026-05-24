@@ -1,4 +1,5 @@
 ---
+title: デジタル名刺
 layout: digital-business-card
 ---
 
