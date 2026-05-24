@@ -47,11 +47,13 @@
   .card {
     flex-direction: row;
     align-items: center;
+    gap: 1rem;
+    padding: 1.5rem;
   }
 
   .avatar {
-    width: 96px;
-    height: 96px;
+    width: 128px;
+    height: 128px;
   }
 
   .qr {
@@ -61,13 +63,21 @@
 
 @media (max-width: 480px) {
   .card {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    text-align: center;
+  }
+
+  .avatar {
+    width: 96px;
+    height: 96px;
   }
 
   .info h1 {
-    font-size: 1.25rem;
+    font-size: 1.75rem;
+  }
+
+  .info h2 {
+    font-size: 1rem;
   }
 }
 
